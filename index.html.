@@ -1,0 +1,92 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Para Matías ❤️</title>
+
+<style>
+body {
+  background: linear-gradient(135deg, #f8c8dc, #f5a6bd);
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 25px 15px;
+  color: #71334b;
+}
+
+.carta {
+  background: white;
+  max-width: 450px;
+  margin: 30px auto;
+  padding: 30px 22px;
+  border-radius: 25px;
+  box-shadow: 0 5px 25px #d99ab5;
+}
+
+h1 {
+  color: #c04470;
+}
+
+.corazon {
+  font-size: 65px;
+  margin: 20px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+.final {
+  color: #c04470;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="carta">
+
+<div class="corazon">❤️</div>
+
+<h1>Para ti, Matías</h1>
+
+<h2>Te amo, me importas.</h2>
+
+<p>
+No quiero perderte. Me gustaría compartir mis días contigo,
+conocerte cada día un poquito más y construir una historia
+bonita juntos.
+</p>
+
+<p>
+Quiero que aprendamos a cuidarnos, escucharnos,
+respetarnos y querernos mejor.
+</p>
+
+<p>
+No dejemos que el orgullo, los enojos,
+el egoísmo ni terceras personas sean más grandes
+que lo que sentimos.
+</p>
+
+<p>
+No quiero que solamente uno luche por esta historia.
+Quiero que seamos dos personas eligiéndose,
+cuidándose y construyendo algo bonito.
+</p>
+
+<h2>¿Lo intentamos juntos? ❤️</h2>
+
+<p class="final">
+Te amo, Matías, con todo el amor que se puede amar. ❤️
+</p>
+
+</div>
+
+</body>
+</html>
